@@ -1,1 +1,1 @@
-Text testovacího souboru: 123ABC
+novy text
